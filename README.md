@@ -1,6 +1,6 @@
 Foodsoft
 =========
-[![Docker Status](https://img.shields.io/docker/build/vokomokum/foodsoft.svg)](https://hub.docker.com/r/vokomokum/foodsoft)
+[![Docker Status](https://img.shields.io/docker/cloud/build/vokomokum/foodsoft.svg)](https://hub.docker.com/r/vokomokum/foodsoft)
 
 This is [Vokomokum](http://www.vokomokum.nl/)'s image for [Foodsoft](https://github.com/foodcoops/foodsoft).
 It adds on top of upstream Foodsoft some plugins:
